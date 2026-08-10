@@ -110,19 +110,12 @@ I work with both <strong>Front-end and Back-end development</strong>, databases,
 
 <h2>🚀 Featured Projects</h2>
 
-</div>
 
-### 🩻 AI-Based Bone Fracture Detection
-
-AI-powered system for detecting bone fractures in X-ray images using Deep Learning and YOLO, with a focus on assisting medical diagnosis.
-
-### 🛒 Full-Stack E-Commerce Platform
-
-A bilingual e-commerce platform built with **Next.js, Tailwind CSS, Node.js, Prisma, and PostgreSQL**, supporting modern web development practices and RTL interfaces.
 
 ### 🏥 Sinn – Smart Healthcare Platform
 
 A smart healthcare platform designed to support medical workflows and provide AI-powered assistance for healthcare professionals.
+<link> <surc> https://sin-platform.vercel.app/</surc></link>
 
 <br>
 
