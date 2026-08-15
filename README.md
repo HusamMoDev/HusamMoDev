@@ -121,7 +121,7 @@ A smart healthcare platform designed to support medical workflows and provide AI
 
 <div align="center">
 
-<h2>📊 GitHub Stats</h2>
+<h2>Others Projevts In repository</h2>
 
 <a href="https://github.com/HusamMoDev">
 
