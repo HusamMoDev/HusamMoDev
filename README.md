@@ -134,6 +134,8 @@ A smart healthcare platform designed to support medical workflows and provide AI
 <br>
 
 <div align="center">
+  
+<link> <surc> https://husamfolio-isy2jzz9.manus.space</surc></link>
 
 ### 💡 Always Learning. Always Building.
 
